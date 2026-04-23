@@ -1,4 +1,4 @@
-# Pharmacy Store Mangement System
+# Pharmacy Store Management System
 Pharmacy Store Management System is a software solution designed to manage inventory, sales, and billing operations in a pharmacy. 
 It maintains records of medicines, stock levels, expiry dates, and supplier details.
 The system enables fast billing, prescription handling, and real-time stock updates.
